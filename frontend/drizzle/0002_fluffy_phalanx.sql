@@ -1,0 +1,1 @@
+DROP INDEX IF EXISTS `invited_users_list_email_unique`;
